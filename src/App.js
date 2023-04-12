@@ -15,7 +15,7 @@ function App() {
         </div>
         <div className="flex justify-between">
           <div className="flex flex-col gap-5">
-            <h1 className="text-[5.2rem] leading-[5rem] font-bold">
+            <h1 className="text-[5.1rem] leading-[5rem] font-bold">
               Swap any <br /> tokens across <br /> nine chain
             </h1>
             <p className="text-xl">
